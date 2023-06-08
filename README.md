@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm [Khang](https://github.com/nguyenduykhanghuflit)
+### Hi there 👋 I'm [Duy Khang](https://www.facebook.com/ndk25)
 
 <img align="right" alt="GIF" height="160px" src="https://res.cloudinary.com/dxshs8qrh/image/upload/v1686212268/giphy_aq6zza.gif" />
 
