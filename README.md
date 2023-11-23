@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://res.cloudinary.com/dxshs8qrh/image/upload/v1686212268/giphy_aq6zza.gif" />
 
-## I'm a ReactJS and .NET Developer
+## I'm a .NET Developer and ReactJS  
 
 - 👨‍💻 I’m currently learning HUFLIT.
 - 📚 Learning everything about Frontend and Backend technologies 😅
@@ -12,7 +12,7 @@
 ---
 
 ##### Languages I use
-![C#](https://img.shields.io/badge/-Csharp-000000?style=flat&logo=csharp)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL Server](https://img.shields.io/badge/-SQLServer-000000?style=flat&logo=microsoftsqlserver)
